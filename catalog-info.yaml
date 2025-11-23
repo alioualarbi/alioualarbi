@@ -1,0 +1,12 @@
+---
+apiVersion: backstage.io/v1alpha1
+kind: User
+metadata:
+  name: alioualarbi
+  annotations:
+    github.com/user-login: alioualarbi
+spec:
+  profile:
+    displayName: Aliou Alarbi
+    email: alioua.larbi@gmail.com
+  memberOf: []
